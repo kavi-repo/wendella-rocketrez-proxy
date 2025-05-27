@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/rocketrez.js": {
+      "maxDuration": 15
+    }
+  }
+}
